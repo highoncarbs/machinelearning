@@ -1,5 +1,4 @@
-# Machine Learning Algorithms Implemented in Python _( as I learn )_
-
+# Machine Learning Algorithms Implemented in Python
 This repository contains the basic machine learning algorithms implemented in python from scratch  , but as I progress I'll also put
 up the implementations using the SciKit Library .
 
